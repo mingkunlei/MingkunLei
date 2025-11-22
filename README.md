@@ -4,7 +4,7 @@
 👨‍💻‍ I am a research assistant at Westlake University, supervised by Professor [Chi Zhang](https://icoz69.github.io/).  
 💻 Prior to this, I worked as an intern at SenseTime with [Chunze Lin](https://linchunze.github.io/) and [Quan Wang](https://scholar.google.com/citations?hl=zh-CN&user=KmxEHm4AAAAJ&view_op=list_works&sortby=pubdate).  
 📖 I obtained my bachelor degree at Computer Science School, Beijing Institute of Technology.  
-📝 My research focuses on generative AI, in particular, **stylized generation** and **controllable visual generation**.   
+📝 My research focuses on generative AI, in particular, efficient diffusion models and stylized generation.   
 📫 How to reach me: leimingkun@westlake.edu.cn
 
 <!--
